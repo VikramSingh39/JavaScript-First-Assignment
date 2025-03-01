@@ -42,23 +42,3 @@
 
 <hr/>
 
-<h3>Question 6.</h3>
-<p>   Simple Calculator – Ask the user for two numbers and an
-   operator (+, -, \*, /). Perform the operation and display the result.</p>
-
-<hr/>
-
-<h3></h3>
-<p></p>
-
-<hr/>
-
-<h3></h3>
-<p></p>
-
-<hr/>
-
-<h3></h3>
-<p></p>
-
-<hr/>

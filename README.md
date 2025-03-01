@@ -1,6 +1,6 @@
 <h1>JavaScript First Assignment</h1>
 
-<h2>This repository contains solutions to some core JavaScript programming questions, specifically designed to strengthen your understanding of JavaScript programming fundamentals. The questions focus on key concepts such as control statements, loops, conditions, and basic logic. Each problem has been solved using JavaScript, with the goal of helping you improve your ability to write efficient and effective JavaScript code.</h2>
+<h2>This repository contains solutions to some core JavaScript programming questions. <br/> <h3>Key Learning Topics</h3> control statements, loops, conditions, and basic logic. Each problem has been solved using JavaScript.</h2>
 
 <h2>How to Use</h2>
 <li>Each question has its own folder (question-01, question-02, etc.).</li>

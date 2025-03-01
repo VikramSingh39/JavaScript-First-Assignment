@@ -1,0 +1,31 @@
+ <!-- Question 1.
+   Age Category Message – Ask the user for their age. If they are under 18, print “You are a minor.” If they are between 18 and 60,
+   print “You are an adult.” If they are above 60, print “You are a
+   senior citizen. -->
+
+   
+   <!DOCTYPE html>
+   <html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Question 1</title>
+   </head>
+   <body>
+      <h1 class="age"></h1>
+
+      <script>
+         const age = document.querySelector('.age');
+        let userAge = prompt("please enter your age");
+        if(userAge < 18 && userAge >= 1){
+         age.innerHTML = "You are a minor."
+        }else if(userAge >= 18 && userAge <= 60){
+         age.innerHTML= "You are an adult."
+        }else if(userAge >= 60 && userAge <= 150){
+         age.innerHTML = "You are a senior citizen."
+        }else{
+         age.innerHTML = "You are not a normal human being OR Please enter valid Age 🧐"
+        }
+      </script>
+   </body>
+   </html>
